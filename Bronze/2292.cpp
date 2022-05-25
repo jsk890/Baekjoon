@@ -7,7 +7,6 @@ int main()
     ios_base::sync_with_stdio(false);
     /*¹úÁý 2292*/
     long long int num = 0, min = 0, max = 1, cnt = 1;
-    //int cnt = 0;
     cin >> num;
     while (num != 1)
     {
