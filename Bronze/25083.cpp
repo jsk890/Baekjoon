@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    /*货较 25083*/
+    //货较 25083
     cout << "         ,r'\"7" << "\n";
     cout << "r`-_   ,'  ,/" << "\n";
     cout << " \\. \". L_r'" << "\n";
