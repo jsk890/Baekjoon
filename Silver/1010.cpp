@@ -5,6 +5,7 @@ int main(void)
 {
 	cin.tie(NULL);
 	ios_base::sync_with_stdio(false);
+	/*다리 놓기 1010*/
 	int rep, n, r, cnt;
 	cin >> rep;
 	for (int i = 0; i < rep; i++)
