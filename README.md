@@ -10,6 +10,9 @@ at
 - [10809 알파벳 찾기](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10809.cpp)
 - [1152 단어의 개수](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1152.cpp)
 
+동적할당
+- [1755 숫자놀이](https://github.com/jsk890/Baekjoon/blob/main/Silver/1755.cpp)
+
 ### 조합 관련
 - [11050 이항 계수 1](https://github.com/jsk890/Baekjoon/blob/main/Bronze/11050.cpp)
 - [1010 다리 놓기](https://github.com/jsk890/Baekjoon/blob/main/Silver/1010.cpp)
