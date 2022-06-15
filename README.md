@@ -96,7 +96,8 @@ Baekjoon Online Judge
 [[11047 동전 0]](https://github.com/jsk890/Baekjoon/blob/main/Silver/11047.cpp)
 
 ### 유클리드 호제법
-[[2609 최대공약수와 최소공배수]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/2609.cpp)
+[[2609 최대공약수와 최소공배수]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/2609.cpp),
+[[1755 숫자놀이]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1755.cpp)
 
 ### 팰린드롬수
 [[1259 팰린드롬수]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1259.cpp)
