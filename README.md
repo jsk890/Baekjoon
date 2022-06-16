@@ -1,6 +1,9 @@
 # Baekjoon
 Baekjoon Online Judge
 
+### Pointer 관련
+- [[10757 큰 수 A+B]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10757.cpp)
+
 ### String 관련
 - stoi, to_string
 [[1076 저항]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1076.cpp),
