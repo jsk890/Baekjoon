@@ -78,6 +78,9 @@ Baekjoon Online Judge
 [[11650 좌표 정렬하기]](https://github.com/jsk890/Baekjoon/blob/main/Silver/11650.cpp),
 [[1181 단어 정렬]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1181.cpp)
 
+- advance
+[[10804 카드역배치]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10804.cpp)
+
 ### Map 관련
 - [[10989 수 정렬하기 3]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10989.cpp),
 [[1159 농구 경기]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1159.cpp),
