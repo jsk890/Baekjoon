@@ -10,6 +10,7 @@ int main()
 	ios_base::sync_with_stdio(false);
 	/*피보나치 수 3 2749 */
 	long long input;
+	//피사노 주기
 	int pulse = 15 * (1000000 / 10);
 	vector<int> vecArr;
 	cin >> input;
