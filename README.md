@@ -110,7 +110,7 @@ Baekjoon Online Judge
 [[2748 피보나치 수 2]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/2748.cpp),
 [[4150 피보나치 수]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/4150.cpp),
 [[10425 피보나치 인버스]](https://github.com/jsk890/Baekjoon/blob/main/Silver/10425.cpp),
-[[2749 피보나치 수 3]](https://github.com/jsk890/Baekjoon/blob/main/Silver/2749.cpp)
+[[2749 피보나치 수 3]](https://github.com/jsk890/Baekjoon/blob/main/Gold/2749.cpp)
 
 ### 팰린드롬수
 - [[1259 팰린드롬수]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1259.cpp)
