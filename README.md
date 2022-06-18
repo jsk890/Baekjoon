@@ -111,12 +111,17 @@ Baekjoon Online Judge
 - prev_permutation
 [[1759 암호 만들기]](https://github.com/jsk890/Baekjoon/blob/main/Gold/1759.cpp)
 
+### 분할정복을 이용한 거듭제곱
+- [[1629 곱셈]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1629.cpp),
+[[13171 A]](https://github.com/jsk890/Baekjoon/blob/main/Silver/13171.cpp)
+
 ### 유클리드 호제법
 - [[2609 최대공약수와 최소공배수]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/2609.cpp),
 [[1735 분수 합]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1735.cpp)
 
 ### 페르마 소정리
-- [[13171 A]](https://github.com/jsk890/Baekjoon/blob/main/Silver/13171.cpp)
+- [[1629 곱셈]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1629.cpp),
+[[13171 A]](https://github.com/jsk890/Baekjoon/blob/main/Silver/13171.cpp)
 
 ### 피보나치
 - [[9711 피보나치]](https://github.com/jsk890/Baekjoon/blob/main/Silver/9711.cpp),
