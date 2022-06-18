@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <cmath>
 
 #define ll long long
 using namespace std;
@@ -23,8 +24,7 @@ int main()
 	{
 		sum++;
 		if (vecArr[i]> b) {
-			sum += (vecArr[i] - b) / c;
-			if ((vecArr[i] -b)% c > 0) sum++;
+			sum += ceil((double)(vecArr[i] - b) / c);
 		}
 	}
 	cout << sum;
