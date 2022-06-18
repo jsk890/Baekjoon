@@ -99,8 +99,8 @@ Baekjoon Online Judge
 - [[11047 동전 0]](https://github.com/jsk890/Baekjoon/blob/main/Silver/11047.cpp)
 
 ### 재귀함수
-- [[17478 재귀함수가 뭔가요?]](https://github.com/jsk890/Baekjoon/blob/main/Silver/17478.cpp)
-- [[17293 맥주 99병]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/17293.cpp)
+- [[17478 재귀함수가 뭔가요?]](https://github.com/jsk890/Baekjoon/blob/main/Silver/17478.cpp),
+[[17293 맥주 99병]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/17293.cpp)
 
 # 수학
 ### 조합
