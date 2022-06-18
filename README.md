@@ -1,10 +1,10 @@
 # Baekjoon
 Baekjoon Online Judge
 
-### Pointer 관련
+### Pointer
 - [[10757 큰 수 A+B]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10757.cpp)
 
-### String 관련
+### String
 - stoi, to_string
 [[1076 저항]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1076.cpp),
 [[1357 뒤집힌 덧셈]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1357.cpp)
@@ -16,35 +16,32 @@ Baekjoon Online Judge
 - 동적할당
 [[1755 숫자놀이]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1755.cpp)
 
-### 조합 관련
-- [[11050 이항 계수 1]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/11050.cpp),
-[[1010 다리 놓기]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1010.cpp)
+### 비트 이동연산 >>, <<
+- [[13171 A]](https://github.com/jsk890/Baekjoon/blob/main/Silver/13171.cpp)
 
-- prev_permutation
-[[1759 암호 만들기]](https://github.com/jsk890/Baekjoon/blob/main/Gold/1759.cpp)
-
-### 소수점 관련
+### 소수점
 - precision
 [[1008 A/B]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1008.cpp)
 
-### 반올림 관련
+### 반올림
 - ceil
 [[10250 ACM호텔]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10250.cpp),
 [[2869 달팽이는 올라가고 싶다]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/2869.cpp)
 
-### Switch 관련
+### Switch
 - [[5622 다이얼]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/5622.cpp)
 
-### Reverse 관련
+# STL(Standard Template Library)
+### Reverse
 - [[1357 뒤집힌 덧셈]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1357.cpp),
 [[11047 동전 0]](https://github.com/jsk890/Baekjoon/blob/main/Silver/11047.cpp)
 
-### Pair 관련
+### Pair
 - [[10814 나이순 정렬]](https://github.com/jsk890/Baekjoon/blob/main/Silver/10814.cpp),
 [[11650 좌표 정렬하기]](https://github.com/jsk890/Baekjoon/blob/main/Silver/11650.cpp),
 [[1181 단어 정렬]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1181.cpp)
 
-### Vector 관련
+### Vector
 - [[10093 숫자]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10093.cpp),
 [[1292 쉽게 푸는 문제]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1292.cpp),
 [[2920 음계]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/2920.cpp)
@@ -81,7 +78,7 @@ Baekjoon Online Judge
 - advance
 [[10804 카드역배치]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10804.cpp)
 
-### Map 관련
+### Map
 - [[10989 수 정렬하기 3]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10989.cpp),
 [[1159 농구 경기]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1159.cpp),
 [[1284 집 주소]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1284.cpp)
@@ -93,16 +90,31 @@ Baekjoon Online Judge
 [[2798 블랙잭]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/2798.cpp),
 [[2108 통계학]](https://github.com/jsk890/Baekjoon/blob/main/Silver/2108.cpp)
 
-### Queue 관련
+### Queue
 - [[10845 큐]](https://github.com/jsk890/Baekjoon/blob/main/Silver/10845.cpp),
 [[2164 카드 2]](https://github.com/jsk890/Baekjoon/blob/main/Silver/2164.cpp)
 
-### 그리디 알고리즘 관련
+# Algorithm
+### 그리디 알고리즘
 - [[11047 동전 0]](https://github.com/jsk890/Baekjoon/blob/main/Silver/11047.cpp)
+
+### 재귀함수
+- [[17478 재귀함수가 뭔가요?]](https://github.com/jsk890/Baekjoon/blob/main/Silver/17478.cpp)
+
+# 수학
+### 조합
+- [[11050 이항 계수 1]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/11050.cpp),
+[[1010 다리 놓기]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1010.cpp)
+
+- prev_permutation
+[[1759 암호 만들기]](https://github.com/jsk890/Baekjoon/blob/main/Gold/1759.cpp)
 
 ### 유클리드 호제법
 - [[2609 최대공약수와 최소공배수]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/2609.cpp),
 [[1735 분수 합]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1735.cpp)
+
+### 페르마 소정리
+- [[13171 A]](https://github.com/jsk890/Baekjoon/blob/main/Silver/13171.cpp)
 
 ### 피보나치
 - [[9711 피보나치]](https://github.com/jsk890/Baekjoon/blob/main/Silver/9711.cpp),
@@ -119,8 +131,6 @@ Baekjoon Online Judge
 - [[1929 소수 구하기]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1929.cpp),
 [[1557 제곱ㄴㄴ]](https://github.com/jsk890/Baekjoon/blob/main/Gold/1557.cpp)
 
-### 재귀함수
-- [[17478 재귀함수가 뭔가요?]](https://github.com/jsk890/Baekjoon/blob/main/Silver/17478.cpp)
-
+# 입출력
 ### EOF 관련
 - [[10951 A+B-4]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10951.cpp)
