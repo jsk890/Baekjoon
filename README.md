@@ -82,7 +82,8 @@ Baekjoon Online Judge
 ### Map
 - [[10989 수 정렬하기 3]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10989.cpp),
 [[1159 농구 경기]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1159.cpp),
-[[1284 집 주소]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1284.cpp)
+[[1284 집 주소]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1284.cpp),
+[[10815 숫자 카드]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1284.cpp)
 
 - distance
 [[2798 블랙잭]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/2798.cpp)
