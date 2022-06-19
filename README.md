@@ -86,8 +86,9 @@ Baekjoon Online Judge
 [[10815 숫자 카드]](https://github.com/jsk890/Baekjoon/blob/main/Silver/10815.cpp)
 
 - Hash
-[[1620 나는야 포켓몬 마스터 이다솜]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1620.cpp)
-[[1764 듣보잡]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1764.cpp)
+[[1620 나는야 포켓몬 마스터 이다솜]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1620.cpp),
+[[1764 듣보잡]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1764.cpp),
+[[1269 대칭 차집합]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1269.cpp)
 
 - distance
 [[2798 블랙잭]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/2798.cpp)
