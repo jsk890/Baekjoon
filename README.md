@@ -85,6 +85,9 @@ Baekjoon Online Judge
 [[1284 집 주소]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1284.cpp),
 [[10815 숫자 카드]](https://github.com/jsk890/Baekjoon/blob/main/Silver/10815.cpp)
 
+- Hash
+[[1620 나는야 포켓몬 마스터 이다솜]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1620.cpp)
+
 - distance
 [[2798 블랙잭]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/2798.cpp)
 
