@@ -4,20 +4,6 @@ Baekjoon Online Judge
 ### Pointer
 - [[10757 큰 수 A+B]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10757.cpp)
 
-# 문자열
-- stoi, to_string
-[[1076 저항]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1076.cpp),
-[[1357 뒤집힌 덧셈]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1357.cpp)
-
-- at
-[[10809 알파벳 찾기]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10809.cpp),
-[[1152 단어의 개수]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1152.cpp)
-
-- substr
-[[11478 서로 다른 부분 문자열의 개수]](https://github.com/jsk890/Baekjoon/blob/main/Silver/11478.cpp)
-
-- 동적할당
-[[1755 숫자놀이]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1755.cpp)
 
 ### 비트 이동연산 >>, <<
 - [[1629 곱셈]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1629.cpp),
@@ -34,6 +20,21 @@ Baekjoon Online Judge
 
 ### Switch
 - [[5622 다이얼]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/5622.cpp)
+
+# 문자열
+- stoi, to_string
+[[1076 저항]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1076.cpp),
+[[1357 뒤집힌 덧셈]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1357.cpp)
+
+- at
+[[10809 알파벳 찾기]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10809.cpp),
+[[1152 단어의 개수]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1152.cpp)
+
+- substr
+[[11478 서로 다른 부분 문자열의 개수]](https://github.com/jsk890/Baekjoon/blob/main/Silver/11478.cpp)
+
+- 동적할당
+[[1755 숫자놀이]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1755.cpp)
 
 # STL(Standard Template Library)
 ### Reverse
@@ -99,6 +100,9 @@ Baekjoon Online Judge
 - advance
 [[2798 블랙잭]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/2798.cpp),
 [[2108 통계학]](https://github.com/jsk890/Baekjoon/blob/main/Silver/2108.cpp)
+
+### Set
+- [[11478 서로 다른 부분 문자열의 개수]](https://github.com/jsk890/Baekjoon/blob/main/Silver/11478.cpp)
 
 ### Queue
 - [[10845 큐]](https://github.com/jsk890/Baekjoon/blob/main/Silver/10845.cpp),
