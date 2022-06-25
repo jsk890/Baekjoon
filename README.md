@@ -89,7 +89,8 @@ Baekjoon Online Judge
 [[1284 집 주소]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/1284.cpp),
 [[10815 숫자 카드]](https://github.com/jsk890/Baekjoon/blob/main/Silver/10815.cpp),
 [[3009 네 번째 점]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/3009.cpp),
-[[10808 알파벳 개수]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10808.cpp)
+[[10808 알파벳 개수]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/10808.cpp),
+[[15923 욱제는 건축왕이야!!]](https://github.com/jsk890/Baekjoon/blob/main/Bronze/15923.cpp)
 
 - Hash
 [[1620 나는야 포켓몬 마스터 이다솜]](https://github.com/jsk890/Baekjoon/blob/main/Silver/1620.cpp),
